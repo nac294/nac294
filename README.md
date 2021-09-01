@@ -1,0 +1,3 @@
+- Hello my name is Nathaniel.
+- I am interested in game development.
+- I am currently learning C, C++, and Python.
