@@ -1,4 +1,4 @@
-- Hello my name is Nathaniel. I am a Ph.D. student at Mississippi State University.
+- Hello, my name is Nathaniel. I am a Ph.D. student at Mississippi State University.
 - I am interested in AI, algorithm design, game design, and education.
 - 
 - Occasionally, I take interest in ML, discrete math, and the concept of lambda calculus.
